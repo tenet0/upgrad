@@ -1,3 +1,5 @@
+// This a simple banking program which is my first successfully completed project. 
+// 
 import random
 
 class Customer():
